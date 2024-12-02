@@ -2,5 +2,5 @@ petclinic:
   # This image tag can be automatically updated by invoking the workflow
   # included in this repository 
   image: quay.io/gfarache/gabrieltest2
-  tag: latest 
+  tag: 0cec1d772ced732cc33c23af243c4d43f9267cc5
   replicas: 1
