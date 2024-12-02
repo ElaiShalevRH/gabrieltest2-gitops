@@ -12,7 +12,7 @@ spec:
       valueFiles:
        - values.yaml
     path: helm
-    repoURL: https://github.com/ElaiShalevRH/gabrieltest2-gitops.git
+    repoURL: https://github.com/gabriel-farache/gabrieltest2-gitops.git
     targetRevision: main
   syncPolicy:
     syncOptions:
